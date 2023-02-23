@@ -3,13 +3,12 @@
 _______
 
 ## General information. 
-год назад я полнотью решил уйти в IT, а именно в тестирование. Всегда было интересно найти уязвимости и ошибки в продукте. Не только в IT сфере но и в бытовых вещях. Сейчас работаю в сроительной компний и немогу себя остановить видеть не логические действия. Когда начал изучать тестовую документацию стало хуже :).
-Ранее был опыт в созданий сайтов. Frontend разработка и по совместительствую дизайнер. 
+Год назад я полностью решил уйти в IT, а именно в тестирование. Всегда было интересно найти уязвимости и ошибки в продукте. Не только в IT сфере, но и в бытовых вещах. Сейчас работаю в строительной компаний и не могу себя остановить видеть не логические действия. Когда начал изучать тестовую документацию стало хуже:).Ранее был опыт в созданий сайтов. Frontend разработка и по совместительствую дизайнер.
 ______
 
 ## Education 
 ### QA Ingener уровня Junior 
-*Онлайн курсы от школы Нелогия.*
+*Онлайн курсы от школы Нетология.*
 
 2022-2023
 
@@ -25,22 +24,36 @@ ______
 
 ________
 
+
+## Completed tasks
+[Автоматизация формы заказа доставки карты](https://github.com/Marfinika/Selenide2Refartor)
+[Тестирование функции перевода с карты на карту](https://github.com/Marfinika/Selenide2Refartor)
+
+_______
+
 ## Soft-skills
 Нахожу общий язык с людьми, умею работать в команде.
-Быстрообучаемость, это у меня в крови. 
+Быстро обучаемость, это у меня в крови.
 Умение работать над ошибками.
 ________
 ## Experience
 ### Manual testing
 ### Test automation
+________
+
+## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/Java/selenide-090909?style=for-the-badge&logo=Java&logoColor=136be1)
+![Header](https://img.shields.io/badge/Java/selenide-090909?style=for-the-badge&logo=Oracle&logoColor=136be1)
+![Header](https://img.shields.io/badge/VScode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=136be1)
+![Header](https://img.shields.io/badge/appveyor-090909?style=for-the-badge&logo=appveyor&logoColor=136be1)
 
 ## Follow Me
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/iisysiker)
-
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/_ivan_zuev_)
+![Header](https://img.shields.io/badge/8(902)1014106-090909?style=for-the-badge&logo=&logoColor=9939a3)
+![Header](https://img.shields.io/badge/ivan.zuev96@yandex.ru-090909?style=for-the-badge&logo=gmail&logoColor=31a5db)
