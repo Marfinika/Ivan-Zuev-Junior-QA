@@ -27,6 +27,7 @@ ________
 
 ## Completed tasks
 [Автоматизация формы заказа доставки карты](https://github.com/Marfinika/Selenide2Refartor)
+
 [Тестирование функции перевода с карты на карту](https://github.com/Marfinika/Selenide2Refartor)
 
 _______
