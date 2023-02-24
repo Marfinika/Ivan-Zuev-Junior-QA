@@ -62,6 +62,8 @@ ________
 ![Header](https://img.shields.io/badge/ivan.zuev96@yandex.ru-090909?style=for-the-badge&logo=gmail&logoColor=31a5db)
 _________
 
+![p](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47942dc034lmxk6mqzfeao2rk7mtu1bc5w5p51zmcq&rid=giphy.gif&ct=g)
+
 ## Projects and works
 
 ### 
