@@ -1,4 +1,4 @@
-![logo](https://sun9-75.userapi.com/impg/qn-6lMAU4bjvpPWn4gX5YsT0T8batYhfUy5m4g/esnhs5RyEz4.jpg?size=1280x182&quality=96&sign=226bb8177c26bd8009000d947ceed6c4&type=album)
+
 
 ## Зуев Иван.
 *Начинающий IT специалист*
