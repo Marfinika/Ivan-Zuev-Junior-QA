@@ -75,6 +75,6 @@ _________
 
 [![Header](https://img.shields.io/badge/Instagramm-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/ivan.zuev.ph)
 
-*Творческий аккакунт*
+*Творческий аккаунт*
 
 Собраны рисунки, фотографий, и все чем я увлекаюсь. (Аккаунт не для связи.)
