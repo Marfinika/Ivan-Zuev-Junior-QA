@@ -1,3 +1,5 @@
+![logo](https://sun9-39.userapi.com/impg/-xlqsI_k3bbqkeIMoejIOIOXloNTaGpBiTan4w/0E4fOGbg95w.jpg?size=1280x518&quality=96&sign=9b870b1c5aaa5f5509557977ddc8f910&type=album)
+
 ## Зуев Иван.
 *Начинающий IT специалист*
 _______
