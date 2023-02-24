@@ -58,3 +58,19 @@ ________
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/_ivan_zuev_)
 ![Header](https://img.shields.io/badge/8(902)1014106-090909?style=for-the-badge&logo=&logoColor=9939a3)
 ![Header](https://img.shields.io/badge/ivan.zuev96@yandex.ru-090909?style=for-the-badge&logo=gmail&logoColor=31a5db)
+_________
+
+## Projects and works
+
+### 
+[![Header](https://img.shields.io/badge/"C.of.R"-090909?style=for-the-badge&logo=vk&logoColor=31a5db)](https://vk.com/colorsofrussia)
+
+*Colors Of Russia*
+
+Показать Россию из глубины ее красоту, который простой городской житель возможно ее не увидит. Проект закрыт 2020г.
+
+[![Header](https://img.shields.io/badge/Instagramm-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/ivan.zuev.ph)
+
+*Творческий аккакунт*
+
+Собраны рисунки, фотографий, и все про меня чем я увлекаюсь. (Аккаунт не для связи.)
