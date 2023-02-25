@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F78242&width=435&lines=import+General+information.;import+Education.;import+Completed+tasks.;import+Soft-skills.;import+Experience.;import+Tools.;import+Follow+Me.;import+Projects+and+works.)](https://git.io/typing-svg)
+=======
+
+
+>>>>>>> 75e7a0ac42a9333513781d882297e6ab6dc379d6
 ## Зуев Иван.
 *Начинающий IT специалист*
 _______
@@ -8,18 +13,18 @@ _______
 ______
 
 ## Education 
-### QA Ingener уровня Junior 
+### QA Engineer уровня Junior 
 *Онлайн курсы от школы Нетология.*
 
 2022-2023
 
 ### Graphic Designer
-*самооброзование.*
+*самообразование.* 
 
 2020 - по настоящее время.
 
 ### Photographer
-*самооброзование.*
+*самообразование.*
 
 2018-2020
 
@@ -61,6 +66,8 @@ ________
 ![Header](https://img.shields.io/badge/ivan.zuev96@yandex.ru-090909?style=for-the-badge&logo=gmail&logoColor=31a5db)
 _________
 
+![p](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47942dc034lmxk6mqzfeao2rk7mtu1bc5w5p51zmcq&rid=giphy.gif&ct=g)
+
 ## Projects and works
 
 ### 
@@ -72,6 +79,6 @@ _________
 
 [![Header](https://img.shields.io/badge/Instagramm-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/ivan.zuev.ph)
 
-*Творческий аккакунт*
+*Творческий аккаунт*
 
 Собраны рисунки, фотографий, и все чем я увлекаюсь. (Аккаунт не для связи.)
