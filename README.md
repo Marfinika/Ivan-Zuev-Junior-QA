@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F78242&width=435&lines=import+General+information.;import+Education.;import+Completed+tasks.;import+Soft-skills.;import+Experience.;import+Tools.;import+Follow+Me.;import+Projects+and+works.)](https://git.io/typing-svg)
 =======
 
 
->>>>>>> 75e7a0ac42a9333513781d882297e6ab6dc379d6
 ## Зуев Иван.
 *Начинающий IT специалист*
 _______
