@@ -34,6 +34,7 @@ ________
 [Автоматизация формы заказа доставки карты](https://github.com/Marfinika/Selenide2Refartor)
 
 [Тестирование функции перевода с карты на карту](https://github.com/Marfinika/Selenide2Refartor)
+[Jira. Работа над проектом(тренажер)](https://testingeree.atlassian.net/jira/software/projects/AOTL/boards/2)
 
 _______
 
