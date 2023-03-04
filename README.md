@@ -56,6 +56,7 @@ ________
 ![Header](https://img.shields.io/badge/Java/selenide-090909?style=for-the-badge&logo=Oracle&logoColor=136be1)
 ![Header](https://img.shields.io/badge/VScode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=136be1)
 ![Header](https://img.shields.io/badge/appveyor-090909?style=for-the-badge&logo=appveyor&logoColor=136be1)
+![Header](https://img.shields.io/badge/Artificial.intelligence-090909?style=for-the-badge&logo=OpenAI&logoColor=136be1)
 
 ## Follow Me
 
