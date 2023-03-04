@@ -3,8 +3,6 @@
 =======
 
 ![Logo](https://sun9-51.userapi.com/impg/pFDUzHnWyjWFjSZ-nvRoRZG2MFc-qLSLZt_xVQ/-G8dIjPy1wE.jpg?size=1080x299&quality=95&sign=bc01a34101f01bb4124c6b0f7f3577cb&type=album)
-## Зуев Иван.
-*Начинающий IT специалист*
 _______
 
 ## General information. 
