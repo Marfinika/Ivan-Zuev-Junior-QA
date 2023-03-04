@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=1e1ca6&width=435&lines=import+General+information.;import+Education.;import+Completed+tasks.;import+Soft-skills.;import+Experience.;import+Tools.;import+Follow+Me.;import+Projects+and+works.)
 =======
 
-
+![Logo](https://sun9-51.userapi.com/impg/pFDUzHnWyjWFjSZ-nvRoRZG2MFc-qLSLZt_xVQ/-G8dIjPy1wE.jpg?size=1080x299&quality=95&sign=bc01a34101f01bb4124c6b0f7f3577cb&type=album)
 ## Зуев Иван.
 *Начинающий IT специалист*
 _______
