@@ -29,11 +29,14 @@ ________
 
 
 ## Completed tasks
+[Сomplete project](https://github.com/Marfinika/Diploma)
+
 [Автоматизация формы заказа доставки карты](https://github.com/Marfinika/Selenide2Refartor)
 
 [Тестирование функции перевода с карты на карту](https://github.com/Marfinika/Selenide2Refartor)
 
 [Jira. Работа над проектом(тренажер)](https://testingeree.atlassian.net/jira/software/projects/AOTL/boards/2)
+
 
 _______
 
@@ -57,6 +60,8 @@ ________
 ![Header](https://img.shields.io/badge/VScode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=136be1)
 ![Header](https://img.shields.io/badge/appveyor-090909?style=for-the-badge&logo=appveyor&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Artificial.intelligence-090909?style=for-the-badge&logo=OpenAI&logoColor=136be1)
+![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker&logoColor=00618a)
+![Header](https://img.shields.io/badge/DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=00618a)
 
 ## Follow Me
 
