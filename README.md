@@ -16,29 +16,41 @@ ______
 2022-2023
 
 ### Graphic Designer
-*самообразование.* 
+*Онлайн курсы от школы Нетология.* 
 
-2020 - по настоящее время.
+2021 - по настоящее время.
 
 ### Photographer
-*самообразование.*
+*Онлайн школа Amlab*
 
 2018-2020
 
-________
+_________
+____
 
 
 ## Completed tasks
+
+### Documentation
+[TestPlan](https://docs.google.com/document/d/11GyIghBCw9Ufcv_keckWxrCYzn4MxmOM8fKCx3J9nCU/edit?usp=sharing)
+
+[BugRepport Android/Web](https://docs.google.com/document/d/1S_kxj5p7vaNDm7IitHURS0_WhGek4bG5CzwnnxyCsho/edit?usp=sharing)
+
+____
+### Test automation
 [Сomplete project](https://github.com/Marfinika/Diploma)
 
 [Автоматизация формы заказа доставки карты](https://github.com/Marfinika/Selenide2Refartor)
 
 [Тестирование функции перевода с карты на карту](https://github.com/Marfinika/Selenide2Refartor)
 
+_____
+### BTS
 [Jira. Работа над проектом(тренажер)](https://testingeree.atlassian.net/jira/software/projects/AOTL/boards/2)
 
 
 _______
+____
 
 ## Soft-skills
 Нахожу общий язык с людьми, умею работать в команде.
