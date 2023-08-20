@@ -3,6 +3,8 @@
 =======
 
 ![Logo](https://sun9-51.userapi.com/impg/pFDUzHnWyjWFjSZ-nvRoRZG2MFc-qLSLZt_xVQ/-G8dIjPy1wE.jpg?size=1080x299&quality=95&sign=bc01a34101f01bb4124c6b0f7f3577cb&type=album)
+
+
 _______
 
 ## General information. 
@@ -40,7 +42,47 @@ ____
 ### Documentation
 [TestPlan](https://docs.google.com/document/d/11GyIghBCw9Ufcv_keckWxrCYzn4MxmOM8fKCx3J9nCU/edit?usp=sharing)
 
+
+<details>
+
+<summary>Test Report</summary>
+
+## Отчет по тестированию.
+
+Произведено ручное тестирование ERP-систему для автоматизации ресторанного бизнеса.
+
+`Web` - WEB Версия сайта
+
+`Android` Два приложения. Для работников, второе для администраторов.
+
+### При тестирований были проверены процессы:
+ `Основная бизнес-логика`
+ - Регистрация 
+ - Редактирование профиля 
+ - Создание организаций в системе ERP 
+ - Работа с организацией
+
+### Результаты
+
+### BugRepport 
 [BugRepport Android/Web](https://docs.google.com/document/d/1S_kxj5p7vaNDm7IitHURS0_WhGek4bG5CzwnnxyCsho/edit?usp=sharing)
+
+#### web
+| Status  | Quantity |
+| ------------- | ------------- |
+| Passed  | `15`  |
+| Failed  | `6` |
+
+#### Adndroid
+| Status  | Quantity |
+| ------------- | ------------- |
+| Passed  | `0`  |
+| Failed  | `2` | 
+
+### Основные проблемы. 
+Неоднозначность требований, неполнота, недостаточная подробность документации или отсутствие таковых
+
+</details>
 
 ____
 ### Test automation
@@ -54,6 +96,10 @@ _____
 ### BTS
 [Jira. Работа над проектом(тренажер)](https://testingeree.atlassian.net/jira/software/projects/AOTL/boards/2)
 
+### Postman
+[Swapi](Postman)
+
+###
 
 _______
 ____
@@ -64,6 +110,8 @@ ____
 Умение работать над ошибками.
 ________
 ## Experience
+
+
 ### Manual testing
 ### Test automation
 ________
@@ -105,3 +153,5 @@ _________
 *Творческий аккаунт*
 
 Собраны рисунки, фотографий, и все чем я увлекаюсь. (Аккаунт не для связи.)
+
+<br><img src="image/bug.gif" width="400" height="400" alt="image" align="left"/><br clear="left">
